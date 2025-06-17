@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC');
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+
+html, body {
+	margin: 0 auto;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+#wrap {
+	background: black;
+   display: block;
+   height: 550px;
+
+}
+
+video h1{
+  position: relative;
+}
+
+#wrap h1 {
+  background: black;
+font-family: 'Oswald', sans-serif;
+font-family: 'Play', sans-serif;
+   color: white;
+   padding-top: 150px;
+ text-align: center;
+
+
+}
+#wrap p {
+ padding:50px 300px 150px 300px;
+ text-align: center;
+ width: 500px;
+   color: white;
+   font-family: 'Oswald', sans-serif;
+font-family: 'Play', sans-serif;
+}
+
+#wrap2 {
+  background: white;
+   display: block;
+
+}
+
+#wrap2 ul li{
+  background: white;
+   display: block;
+   text-align: center;
+
+}
+
+
+.cn1 img{
+ width: 550px;
+ height:550px;
+ float: left;
+ clear: right;
+ display: inline-block;
+}
+#wrap .cn1 img{
+
+ float: right;
+ clear: left;
+
+}
+
+.cn1 h1{
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+font-family: 'Play', sans-serif;
+text-align: center;
+ padding-top: 100px;
+ padding-bottom: 50px;
+
+}
+
+
+.cn12 h1{
+  font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+font-family: 'Play', sans-serif;
+text-align: center;
+ padding-top: 200px;
+ padding-bottom: 50px;
+
+}
+
+.cn1 p{
+  
+
+  text-align: center; padding-left: 350px; padding-right: 350px; }
+.oa {
+ text-align: center;
+ font-size: 50px;
+ margin: 200px 0 50px 0; 
+ font-family: 'Oswald', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Russo One', sans-serif;
+}
+.up{
+  padding-bottom: 150px;
+}
+#clr{
+  background-color: black;
+}
+
+#clr p{
+  background-color: black;
+  color: white;
+}
+
+.artist{
+  font-size: 50px;
+  color: black;
+  margin: 100px 750px ;
+}
+
+#content p{
+font-family: 'Faster One', cursive;
+font-family: 'Oswald', sans-serif;
+	text-align: justify;
+	text-align: left;
+	font-size: 22px;
+}
+
+#content h1{
+font-family: 'Faster One', cursive;
+font-family: 'Oswald', sans-serif;
+}
+
+
+.bg2{
+  display: inline-flex;
+  width: 100%;
+  margin-top: 100px;
+}
+.bg2 img{
+display: block;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+
+}
+.bg2 h1{
+ margin-left: 15px;
+ color: black;
+}
+
+.bg2 p{ 
+ 
+  margin-left: 15px;
+  margin-right: 10px;
+  font-size: 115px;
+
+}
+
+
+#footer{
+	background: black;
+	height: 100px;
+margin-top: 150px;
+	width: 100%;
+
+}
+
+
+#footer h1{
+  padding-top: 50px;
+ color: white;
+ font-size: 20px;
+ text-align: center;
+ font-family: 'Faster One', cursive;
+font-family: 'Oswald', sans-serif;
+}
+
+.vid {
+  position: relative;
+  height: 100%;
+  width: 100%; 
+}
+
+.video{
+margin: 0 auto;
+display: block;
+}
+    
+.audio{
+text-align: center;
+}
+/*@media screen and (max-width: 700px) { 
+body{
+  float: none;
+ 
+}
+*/
+
+
+
